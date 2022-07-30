@@ -1,0 +1,1264 @@
+2022-01-15 08:53:16,485  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2022-01-15 08:53:16,489  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:53:16,490  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2022-01-15 08:53:16,490  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:53:16,490  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2022-01-15 08:53:16,491  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:53:16,492  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2022-01-15 08:53:16,493  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:53:16,494  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2022-01-15 08:53:16,494  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:53:16,494  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2022-01-15 08:53:16,495  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:53:16,495  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 7
+2022-01-15 08:53:16,495  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:53:16,580  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> TricentisTruck
+2022-01-15 08:53:16,580  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2022-01-15 08:53:16,581  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC9
+2022-01-15 08:53:16,581  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis Truck Insurance
+2022-01-15 08:53:16,581  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: y
+2022-01-15 08:53:16,652  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2022-01-15 08:53:16,654  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> chrome
+2022-01-15 08:53:16,654  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-92/chromedriver_win32/chromedriver.exe
+2022-01-15 08:53:16,655  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-92/chromedriver_win32/chromedriver.exe
+2022-01-15 08:53:16,655  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 43 - In Chrome ...
+2022-01-15 08:53:21,707  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 52 - Setting Chrome driver ...
+2022-01-15 08:54:25,493  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 1
+2022-01-15 08:54:25,496  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:54:25,498  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 2
+2022-01-15 08:54:25,498  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:54:25,498  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 3
+2022-01-15 08:54:25,499  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:54:25,499  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 4
+2022-01-15 08:54:25,500  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:54:25,500  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 5
+2022-01-15 08:54:25,501  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:54:25,501  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 6
+2022-01-15 08:54:25,502  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:54:25,502  INFO [main] - mil.dtic.selenium.RunTest.readExcel 80 - The value of i is -> 7
+2022-01-15 08:54:25,502  INFO [main] - mil.dtic.selenium.RunTest.readExcel 81 - testSuitesheet -> Sheet1
+2022-01-15 08:54:25,574  INFO [main] - mil.dtic.selenium.RunTest.readExcel 93 - sheetTestSteps is -> TricentisTruck
+2022-01-15 08:54:25,574  INFO [main] - mil.dtic.selenium.RunTest.readExcel 105 - TestCases: testCaseSerialNumber: 1
+2022-01-15 08:54:25,575  INFO [main] - mil.dtic.selenium.RunTest.readExcel 106 - TestCases: testCaseNumber: TC9
+2022-01-15 08:54:25,576  INFO [main] - mil.dtic.selenium.RunTest.readExcel 107 - TestCases: testCaseDescription: Tricentis Truck Insurance
+2022-01-15 08:54:25,576  INFO [main] - mil.dtic.selenium.RunTest.readExcel 108 - TestCases: testCaseExecutionFlag: y
+2022-01-15 08:54:25,634  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 24 - Now opening Browser
+2022-01-15 08:54:25,635  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 27 - Configuration File Reader : Browser -> chrome
+2022-01-15 08:54:25,636  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 28 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-92/chromedriver_win32/chromedriver.exe
+2022-01-15 08:54:25,636  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 29 - Configuration File Reader : Driver Path -> ./webdriver/Chrome-Version-92/chromedriver_win32/chromedriver.exe
+2022-01-15 08:54:25,636  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 43 - In Chrome ...
+2022-01-15 08:54:27,696  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 52 - Setting Chrome driver ...
+2022-01-15 08:54:34,654  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 60 - Chrome browser started
+2022-01-15 08:54:34,672  INFO [main] - mil.dtic.selenium.Driver.InitateDriver 66 - Wait time is -> 10
+2022-01-15 08:54:34,722  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:1
+2022-01-15 08:54:34,723  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Open url
+2022-01-15 08:54:34,724  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:
+2022-01-15 08:54:34,724  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue:
+2022-01-15 08:54:34,724  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:http://sampleapp.tricentis.com/101/app.php
+2022-01-15 08:54:34,725  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:url
+2022-01-15 08:54:34,725  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:34,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:34,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:34,728  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:34,728  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:34,729  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -url http://sampleapp.tricentis.com/101/app.php    
+2022-01-15 08:54:34,729  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: url inputValue: http://sampleapp.tricentis.com/101/app.php webElementValue:  
+2022-01-15 08:54:36,628  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 277 - Url is opened sucessfully
+2022-01-15 08:54:36,629  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:36,630  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:2
+2022-01-15 08:54:36,630  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Click Sign in Button
+2022-01-15 08:54:36,631  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:36,631  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://div[@class='main-navigation']//a[@id='nav_truck']
+2022-01-15 08:54:36,632  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:36,632  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:click
+2022-01-15 08:54:36,633  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:36,633  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:36,633  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:36,633  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:36,634  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:36,635  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -click  //div[@class='main-navigation']//a[@id='nav_truck']   
+2022-01-15 08:54:36,635  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: click inputValue:  webElementValue:  //div[@class='main-navigation']//a[@id='nav_truck']
+2022-01-15 08:54:36,636  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 44 - In keyword: click inputValue:  webElementValue:  //div[@class='main-navigation']//a[@id='nav_truck']
+2022-01-15 08:54:36,643  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:36,643  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:36,705  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:37,477  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 46 - Click is performed sucessfully
+2022-01-15 08:54:37,477  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:37,478  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:
+2022-01-15 08:54:37,478  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:screenshot
+2022-01-15 08:54:37,478  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:
+2022-01-15 08:54:37,479  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue:
+2022-01-15 08:54:37,479  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:37,479  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:screenshot
+2022-01-15 08:54:37,480  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:37,481  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:37,481  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:37,481  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:37,482  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:37,482  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -screenshot     
+2022-01-15 08:54:37,482  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: screenshot inputValue:  webElementValue:  
+2022-01-15 08:54:37,941  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 111 - Screentshot taken
+2022-01-15 08:54:37,941  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:37,941  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:3
+2022-01-15 08:54:37,942  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Dropdown select
+2022-01-15 08:54:37,942  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:css
+2022-01-15 08:54:37,942  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue:#make
+2022-01-15 08:54:37,943  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:Honda
+2022-01-15 08:54:37,943  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:dropdown
+2022-01-15 08:54:37,943  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:37,943  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:37,943  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:37,944  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:37,944  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:37,944  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -dropdown Honda #make   
+2022-01-15 08:54:37,944  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: dropdown inputValue: Honda webElementValue:  #make
+2022-01-15 08:54:37,946  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 359 - Web Element is an - > css
+2022-01-15 08:54:37,946  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 361 - Now waiting for 30 ...
+2022-01-15 08:54:37,987  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 363 - Found the element, moving on ...
+2022-01-15 08:54:38,053  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 124 - css #make
+2022-01-15 08:54:38,054  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 125 - Honda
+2022-01-15 08:54:38,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:38,199  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:4
+2022-01-15 08:54:38,199  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Dropdown select
+2022-01-15 08:54:38,200  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:38,200  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='engineperformance']
+2022-01-15 08:54:38,200  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:2000
+2022-01-15 08:54:38,201  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:38,201  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:38,201  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:38,202  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:38,202  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:38,202  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:38,203  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 2000 //input[@id='engineperformance']   
+2022-01-15 08:54:38,203  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 2000 webElementValue:  //input[@id='engineperformance']
+2022-01-15 08:54:38,203  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 2000 webElementValue:  //input[@id='engineperformance']
+2022-01-15 08:54:38,204  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:38,204  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:38,231  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:38,304  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:38,304  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:38,326  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:38,483  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:38,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:38,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:5
+2022-01-15 08:54:38,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter Date
+2022-01-15 08:54:38,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:38,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='dateofmanufacture']
+2022-01-15 08:54:38,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:10/13/2019
+2022-01-15 08:54:38,485  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:38,486  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:38,486  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:38,487  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:38,487  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:38,487  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:38,488  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 10/13/2019 //input[@id='dateofmanufacture']   
+2022-01-15 08:54:38,488  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 10/13/2019 webElementValue:  //input[@id='dateofmanufacture']
+2022-01-15 08:54:38,488  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 10/13/2019 webElementValue:  //input[@id='dateofmanufacture']
+2022-01-15 08:54:38,488  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:38,489  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:38,521  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:38,623  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:38,624  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:38,654  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:38,930  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:38,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:38,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:6
+2022-01-15 08:54:38,931  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Dropdown select
+2022-01-15 08:54:38,932  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:38,932  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://select[@id='numberofseats']
+2022-01-15 08:54:38,933  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:3
+2022-01-15 08:54:38,934  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:dropdown
+2022-01-15 08:54:38,934  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:38,934  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:38,935  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:38,935  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:38,935  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:38,935  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -dropdown 3 //select[@id='numberofseats']   
+2022-01-15 08:54:38,936  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: dropdown inputValue: 3 webElementValue:  //select[@id='numberofseats']
+2022-01-15 08:54:38,936  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:38,936  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:38,966  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:39,023  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 124 - xpath //select[@id='numberofseats']
+2022-01-15 08:54:39,024  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 125 - 3
+2022-01-15 08:54:39,174  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:39,175  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:7
+2022-01-15 08:54:39,175  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Dropdown select
+2022-01-15 08:54:39,176  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:39,176  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://select[@id='fuel']
+2022-01-15 08:54:39,176  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:Gas
+2022-01-15 08:54:39,176  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:dropdown
+2022-01-15 08:54:39,176  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:39,177  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:39,177  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:39,177  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:39,177  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:39,177  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -dropdown Gas //select[@id='fuel']   
+2022-01-15 08:54:39,178  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: dropdown inputValue: Gas webElementValue:  //select[@id='fuel']
+2022-01-15 08:54:39,178  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:39,178  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:39,218  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:39,270  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 124 - xpath //select[@id='fuel']
+2022-01-15 08:54:39,272  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 125 - Gas
+2022-01-15 08:54:39,355  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:39,355  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:8
+2022-01-15 08:54:39,356  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter Date
+2022-01-15 08:54:39,356  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:39,356  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='payload']
+2022-01-15 08:54:39,356  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:1000
+2022-01-15 08:54:39,357  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:39,357  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:39,357  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:39,357  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:39,358  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:39,358  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:39,359  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 1000 //input[@id='payload']   
+2022-01-15 08:54:39,359  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 1000 webElementValue:  //input[@id='payload']
+2022-01-15 08:54:39,360  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 1000 webElementValue:  //input[@id='payload']
+2022-01-15 08:54:39,360  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:39,361  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:39,378  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:39,450  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:39,450  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:39,463  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:39,568  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:39,568  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:39,571  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:9
+2022-01-15 08:54:39,572  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter Date
+2022-01-15 08:54:39,573  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:39,574  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='totalweight']
+2022-01-15 08:54:39,574  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:4000
+2022-01-15 08:54:39,574  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:39,574  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:39,575  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:39,575  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:39,575  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:39,576  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:39,576  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 4000 //input[@id='totalweight']   
+2022-01-15 08:54:39,576  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 4000 webElementValue:  //input[@id='totalweight']
+2022-01-15 08:54:39,576  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 4000 webElementValue:  //input[@id='totalweight']
+2022-01-15 08:54:39,577  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:39,577  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:39,601  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:39,688  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:39,689  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:39,706  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:39,851  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:39,852  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:39,852  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:10
+2022-01-15 08:54:39,852  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter Date
+2022-01-15 08:54:39,853  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:39,853  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='listprice']
+2022-01-15 08:54:39,853  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:25000
+2022-01-15 08:54:39,853  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:39,854  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:39,854  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:39,854  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:39,854  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:39,854  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:39,855  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 25000 //input[@id='listprice']   
+2022-01-15 08:54:39,855  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 25000 webElementValue:  //input[@id='listprice']
+2022-01-15 08:54:39,856  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 25000 webElementValue:  //input[@id='listprice']
+2022-01-15 08:54:39,856  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:39,857  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:39,887  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:39,992  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:39,993  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:40,016  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:40,179  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:40,180  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:40,180  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:11
+2022-01-15 08:54:40,180  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter Date
+2022-01-15 08:54:40,181  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:40,181  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='licenseplatenumber']
+2022-01-15 08:54:40,182  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:a205160
+2022-01-15 08:54:40,182  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:40,182  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:40,182  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:40,182  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:40,182  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:40,183  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:40,183  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input a205160 //input[@id='licenseplatenumber']   
+2022-01-15 08:54:40,184  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: a205160 webElementValue:  //input[@id='licenseplatenumber']
+2022-01-15 08:54:40,184  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: a205160 webElementValue:  //input[@id='licenseplatenumber']
+2022-01-15 08:54:40,184  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:40,185  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:40,207  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:40,292  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:40,292  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:40,322  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:40,471  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:40,471  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:40,471  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:12
+2022-01-15 08:54:40,472  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter Date
+2022-01-15 08:54:40,472  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:40,472  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='annualmileage']
+2022-01-15 08:54:40,472  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:15000
+2022-01-15 08:54:40,472  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:40,472  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:40,472  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:40,472  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:40,473  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:40,473  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:40,473  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 15000 //input[@id='annualmileage']   
+2022-01-15 08:54:40,473  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 15000 webElementValue:  //input[@id='annualmileage']
+2022-01-15 08:54:40,473  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 15000 webElementValue:  //input[@id='annualmileage']
+2022-01-15 08:54:40,473  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:40,474  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:40,498  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:40,582  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:40,583  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:40,604  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:40,748  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:40,749  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:40,749  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:13
+2022-01-15 08:54:40,750  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Click Sign in Button
+2022-01-15 08:54:40,750  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:40,750  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://button[@id='nextenterinsurantdata']
+2022-01-15 08:54:40,751  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:40,751  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:click
+2022-01-15 08:54:40,751  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:40,751  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:40,751  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:40,752  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:40,752  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:40,752  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -click  //button[@id='nextenterinsurantdata']   
+2022-01-15 08:54:40,752  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: click inputValue:  webElementValue:  //button[@id='nextenterinsurantdata']
+2022-01-15 08:54:40,752  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 44 - In keyword: click inputValue:  webElementValue:  //button[@id='nextenterinsurantdata']
+2022-01-15 08:54:40,753  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:40,753  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:40,780  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:40,953  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 46 - Click is performed sucessfully
+2022-01-15 08:54:40,955  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:40,956  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:14
+2022-01-15 08:54:40,956  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter First Name
+2022-01-15 08:54:40,956  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:40,956  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='firstname']
+2022-01-15 08:54:40,956  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:Fatma
+2022-01-15 08:54:40,956  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:40,956  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:40,957  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:40,957  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:40,957  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:40,957  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:40,957  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input Fatma //input[@id='firstname']   
+2022-01-15 08:54:40,957  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: Fatma webElementValue:  //input[@id='firstname']
+2022-01-15 08:54:40,958  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: Fatma webElementValue:  //input[@id='firstname']
+2022-01-15 08:54:40,958  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:40,958  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:40,984  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:41,069  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:41,069  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:41,083  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:41,974  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:41,975  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:41,976  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:15
+2022-01-15 08:54:41,976  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter last name
+2022-01-15 08:54:41,976  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:41,977  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='lastname']
+2022-01-15 08:54:41,977  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:Ali
+2022-01-15 08:54:41,977  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:41,977  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:41,977  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:41,977  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:41,977  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:41,977  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:41,978  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input Ali //input[@id='lastname']   
+2022-01-15 08:54:41,978  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: Ali webElementValue:  //input[@id='lastname']
+2022-01-15 08:54:41,978  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: Ali webElementValue:  //input[@id='lastname']
+2022-01-15 08:54:41,978  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:41,978  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:42,003  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:42,077  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:42,078  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:42,088  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:42,197  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:42,197  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:42,197  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:16
+2022-01-15 08:54:42,197  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter Date
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='birthdate']
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:10/25/1973
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 10/25/1973 //input[@id='birthdate']   
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 10/25/1973 webElementValue:  //input[@id='birthdate']
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 10/25/1973 webElementValue:  //input[@id='birthdate']
+2022-01-15 08:54:42,198  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:42,199  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:42,216  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:42,273  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:42,273  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:42,289  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:42,445  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:42,446  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:42,446  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:17
+2022-01-15 08:54:42,446  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:radio
+2022-01-15 08:54:42,446  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:42,446  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://label[normalize-space()='Female']
+2022-01-15 08:54:42,446  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:42,446  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:radio
+2022-01-15 08:54:42,447  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:42,447  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:42,447  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:42,447  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:42,447  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:42,447  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -radio  //label[normalize-space()='Female']   
+2022-01-15 08:54:42,447  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: radio inputValue:  webElementValue:  //label[normalize-space()='Female']
+2022-01-15 08:54:42,457  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:42,457  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:42,482  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:42,548  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 215 - Is Exp radio button displayed: true
+2022-01-15 08:54:42,557  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 219 - Is Exp radio button enabled: true
+2022-01-15 08:54:42,571  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 224 - Default Radio button selection Status: false
+2022-01-15 08:54:47,726  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 234 - Experience radio Selection status after perform click() event: false
+2022-01-15 08:54:47,726  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:18
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:street address 
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='streetaddress']
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:120 main st 
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 120 main st  //input[@id='streetaddress']   
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 120 main st  webElementValue:  //input[@id='streetaddress']
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 120 main st  webElementValue:  //input[@id='streetaddress']
+2022-01-15 08:54:47,727  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:47,728  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:47,755  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:47,804  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:47,804  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:47,829  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:47,939  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:47,939  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:47,939  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:19
+2022-01-15 08:54:47,939  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:
+2022-01-15 08:54:47,939  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://select[@id='country']
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:Egypt
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:dropdown
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -dropdown Egypt //select[@id='country']   
+2022-01-15 08:54:47,940  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: dropdown inputValue: Egypt webElementValue:  //select[@id='country']
+2022-01-15 08:54:47,941  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:47,941  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:47,962  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:47,996  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 124 - xpath //select[@id='country']
+2022-01-15 08:54:47,996  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 125 - Egypt
+2022-01-15 08:54:48,063  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:48,063  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:20
+2022-01-15 08:54:48,063  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:
+2022-01-15 08:54:48,063  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:48,063  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='zipcode']
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:10230
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 10230 //input[@id='zipcode']   
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 10230 webElementValue:  //input[@id='zipcode']
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 10230 webElementValue:  //input[@id='zipcode']
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:48,064  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:48,077  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:48,128  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:48,128  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:48,153  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:48,262  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:21
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:city
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='city']
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:cairo
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input cairo //input[@id='city']   
+2022-01-15 08:54:48,263  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: cairo webElementValue:  //input[@id='city']
+2022-01-15 08:54:48,264  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: cairo webElementValue:  //input[@id='city']
+2022-01-15 08:54:48,264  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:48,264  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:48,280  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:48,330  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:48,330  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:48,351  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:48,419  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:48,419  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:48,419  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:22
+2022-01-15 08:54:48,419  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:occupation
+2022-01-15 08:54:48,419  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:48,419  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://select[@id='occupation']
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:Public Official
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:dropdown
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -dropdown Public Official //select[@id='occupation']   
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: dropdown inputValue: Public Official webElementValue:  //select[@id='occupation']
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:48,420  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:48,447  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:48,489  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 124 - xpath //select[@id='occupation']
+2022-01-15 08:54:48,489  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 125 - Public Official
+2022-01-15 08:54:48,557  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:48,558  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:23
+2022-01-15 08:54:48,558  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:hobbies
+2022-01-15 08:54:48,558  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:48,558  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://label[normalize-space()='Skydiving']
+2022-01-15 08:54:48,559  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:48,559  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:click
+2022-01-15 08:54:48,559  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:48,559  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:48,559  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:48,560  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:48,560  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:48,560  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -click  //label[normalize-space()='Skydiving']   
+2022-01-15 08:54:48,561  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: click inputValue:  webElementValue:  //label[normalize-space()='Skydiving']
+2022-01-15 08:54:48,561  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 44 - In keyword: click inputValue:  webElementValue:  //label[normalize-space()='Skydiving']
+2022-01-15 08:54:48,561  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:48,561  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:48,586  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:48,655  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 46 - Click is performed sucessfully
+2022-01-15 08:54:48,655  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:48,655  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:24
+2022-01-15 08:54:48,655  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:next
+2022-01-15 08:54:48,655  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:48,655  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://button[@id='nextenterproductdata']
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:click
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -click  //button[@id='nextenterproductdata']   
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: click inputValue:  webElementValue:  //button[@id='nextenterproductdata']
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 44 - In keyword: click inputValue:  webElementValue:  //button[@id='nextenterproductdata']
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:48,656  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:48,680  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:48,765  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 46 - Click is performed sucessfully
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:16
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Enter Date
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='startdate']
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:11/11/2022
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 11/11/2022 //input[@id='startdate']   
+2022-01-15 08:54:48,766  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 11/11/2022 webElementValue:  //input[@id='startdate']
+2022-01-15 08:54:48,767  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 11/11/2022 webElementValue:  //input[@id='startdate']
+2022-01-15 08:54:48,767  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:48,767  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:48,788  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:48,855  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:48,855  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:48,878  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:49,038  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:54:49,038  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:49,038  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:22
+2022-01-15 08:54:49,038  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:insurances
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://select[@id='insurancesum']
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:3000000
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:dropdown
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -dropdown 3000000 //select[@id='insurancesum']   
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: dropdown inputValue: 3000000 webElementValue:  //select[@id='insurancesum']
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:49,039  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:49,055  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:49,078  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 124 - xpath //select[@id='insurancesum']
+2022-01-15 08:54:49,078  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 125 - 3000000
+2022-01-15 08:54:49,151  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:49,151  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:19
+2022-01-15 08:54:49,151  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:damageinsurance
+2022-01-15 08:54:49,151  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://select[@id='damageinsurance']
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:Full Coverage
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:dropdown
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -dropdown Full Coverage //select[@id='damageinsurance']   
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: dropdown inputValue: Full Coverage webElementValue:  //select[@id='damageinsurance']
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:49,152  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:49,179  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:49,218  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 124 - xpath //select[@id='damageinsurance']
+2022-01-15 08:54:49,218  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 125 - Full Coverage
+2022-01-15 08:54:49,295  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:49,295  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:17
+2022-01-15 08:54:49,295  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:radio
+2022-01-15 08:54:49,295  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:49,295  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='LegalDefenseInsurance']
+2022-01-15 08:54:49,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:49,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:radio
+2022-01-15 08:54:49,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:49,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:49,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:49,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:49,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:49,296  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -radio  //input[@id='LegalDefenseInsurance']   
+2022-01-15 08:54:49,296  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: radio inputValue:  webElementValue:  //input[@id='LegalDefenseInsurance']
+2022-01-15 08:54:49,308  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:49,309  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:49,336  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:49,388  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 215 - Is Exp radio button displayed: true
+2022-01-15 08:54:49,399  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 219 - Is Exp radio button enabled: true
+2022-01-15 08:54:49,408  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 224 - Default Radio button selection Status: false
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 234 - Experience radio Selection status after perform click() event: true
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:23
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:next button
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://button[@id='nextselectpriceoption']
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:click
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:53,778  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:53,779  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:53,779  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -click  //button[@id='nextselectpriceoption']   
+2022-01-15 08:54:53,779  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: click inputValue:  webElementValue:  //button[@id='nextselectpriceoption']
+2022-01-15 08:54:53,779  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 44 - In keyword: click inputValue:  webElementValue:  //button[@id='nextselectpriceoption']
+2022-01-15 08:54:53,779  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:53,779  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:53,800  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:53,901  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 46 - Click is performed sucessfully
+2022-01-15 08:54:53,901  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:53,901  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:24
+2022-01-15 08:54:53,901  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:next
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='selectsilver']
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:radio
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -radio  //input[@id='selectsilver']   
+2022-01-15 08:54:53,902  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: radio inputValue:  webElementValue:  //input[@id='selectsilver']
+2022-01-15 08:54:53,912  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:53,912  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:53,939  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:54:53,974  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 215 - Is Exp radio button displayed: true
+2022-01-15 08:54:53,987  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 219 - Is Exp radio button enabled: true
+2022-01-15 08:54:53,996  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 224 - Default Radio button selection Status: false
+2022-01-15 08:54:58,996  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 234 - Experience radio Selection status after perform click() event: true
+2022-01-15 08:54:58,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:54:58,996  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:23
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:next button
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://button[@id='nextsendquote']
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:click
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -click  //button[@id='nextsendquote']   
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: click inputValue:  webElementValue:  //button[@id='nextsendquote']
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 44 - In keyword: click inputValue:  webElementValue:  //button[@id='nextsendquote']
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:54:58,997  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:54:59,018  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:00,194  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 46 - Click is performed sucessfully
+2022-01-15 08:55:00,194  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:55:00,194  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:16
+2022-01-15 08:55:00,194  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Email
+2022-01-15 08:55:00,194  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:55:00,194  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='email']
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:habiba@gmail.com
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input habiba@gmail.com //input[@id='email']   
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: habiba@gmail.com webElementValue:  //input[@id='email']
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: habiba@gmail.com webElementValue:  //input[@id='email']
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:00,195  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:00,216  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:00,276  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:00,276  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:00,285  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:16
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:phone
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='phone']
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:8603281636
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:55:00,455  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:55:00,456  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input 8603281636 //input[@id='phone']   
+2022-01-15 08:55:00,456  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: 8603281636 webElementValue:  //input[@id='phone']
+2022-01-15 08:55:00,456  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: 8603281636 webElementValue:  //input[@id='phone']
+2022-01-15 08:55:00,456  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:00,456  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:00,478  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:00,541  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:00,542  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:00,564  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:00,696  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:55:00,696  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:55:00,696  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:16
+2022-01-15 08:55:00,696  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:username
+2022-01-15 08:55:00,696  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:55:00,696  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='username']
+2022-01-15 08:55:00,696  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:Habiba1200
+2022-01-15 08:55:00,697  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:55:00,697  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:55:00,697  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:55:00,697  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:55:00,697  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:55:00,697  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:55:00,697  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input Habiba1200 //input[@id='username']   
+2022-01-15 08:55:00,697  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: Habiba1200 webElementValue:  //input[@id='username']
+2022-01-15 08:55:00,698  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: Habiba1200 webElementValue:  //input[@id='username']
+2022-01-15 08:55:00,698  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:00,698  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:00,722  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:00,778  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:00,778  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:00,797  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:00,935  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:55:00,935  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:16
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:password
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='password']
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:MmA123456
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input MmA123456 //input[@id='password']   
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: MmA123456 webElementValue:  //input[@id='password']
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: MmA123456 webElementValue:  //input[@id='password']
+2022-01-15 08:55:00,936  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:00,937  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:00,955  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:01,006  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:01,006  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:01,031  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:01,151  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:55:01,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:55:01,152  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:16
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Confirm password
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://input[@id='confirmpassword']
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:MmA123456
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:input
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:55:01,153  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:55:01,154  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -input MmA123456 //input[@id='confirmpassword']   
+2022-01-15 08:55:01,154  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: input inputValue: MmA123456 webElementValue:  //input[@id='confirmpassword']
+2022-01-15 08:55:01,154  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 91 - In keyword: input inputValue: MmA123456 webElementValue:  //input[@id='confirmpassword']
+2022-01-15 08:55:01,154  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:01,154  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:01,170  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:01,225  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:01,226  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:01,245  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:01,371  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 94 - Input is performed sucessfully
+2022-01-15 08:55:01,371  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:55:01,371  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:23
+2022-01-15 08:55:01,371  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:next button
+2022-01-15 08:55:01,371  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:xpath
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue://button[@id='sendemail']
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:click
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -click  //button[@id='sendemail']   
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: click inputValue:  webElementValue:  //button[@id='sendemail']
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 44 - In keyword: click inputValue:  webElementValue:  //button[@id='sendemail']
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 366 - Web Element is an - > xpath
+2022-01-15 08:55:01,372  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 367 - Now waiting for 30 ...
+2022-01-15 08:55:01,390  INFO [main] - mil.dtic.selenium.KeywordFunctions.runDriver 369 - Found the element, moving on ...
+2022-01-15 08:55:01,482  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 46 - Click is performed sucessfully
+2022-01-15 08:55:01,482  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:55:01,482  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:25
+2022-01-15 08:55:01,482  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Sleep 
+2022-01-15 08:55:01,482  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:
+2022-01-15 08:55:01,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue:
+2022-01-15 08:55:01,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:100
+2022-01-15 08:55:01,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:sleep
+2022-01-15 08:55:01,483  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:55:01,484  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:55:01,484  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:55:01,484  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:55:01,484  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:55:01,484  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -sleep 100    
+2022-01-15 08:55:01,484  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: sleep inputValue: 100 webElementValue:  
+2022-01-15 08:55:06,496  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 314 - sleep is done sucessfully
+2022-01-15 08:55:06,496  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:55:06,496  INFO [main] - mil.dtic.selenium.RunTest.readExcel 151 - testStepsSerialNumber:26
+2022-01-15 08:55:06,496  INFO [main] - mil.dtic.selenium.RunTest.readExcel 152 - testStepsDescription:Close Browser
+2022-01-15 08:55:06,496  INFO [main] - mil.dtic.selenium.RunTest.readExcel 153 - webElement:
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.RunTest.readExcel 154 - webElementValue:
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.RunTest.readExcel 155 - inputValue:
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.RunTest.readExcel 156 - testStepsKeyword:CloseBrowser
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.RunTest.readExcel 157 - testStepsAssertMethod:
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.RunTest.readExcel 158 - testStepsActualValue:
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.RunTest.readExcel 159 - testStepsExpectedValue:
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.RunTest.readExcel 160 - testCaseExecutionFlag:y
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.RunTest.readExcel 162 - Setting testCaseExecutionFlag:y to testCaseNumber : TC9
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.RunTest.readExcel 165 - Executing performActions Method with the five arguments -CloseBrowser     
+2022-01-15 08:55:06,497  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 38 - keyword: CloseBrowser inputValue:  webElementValue:  
+2022-01-15 08:55:07,213  INFO [main] - mil.dtic.selenium.KeywordFunctions.runTest 289 - Browser is closed sucessfully
+2022-01-15 08:55:07,213  INFO [main] - mil.dtic.selenium.RunTest.readExcel 196 - TC9y
+2022-01-15 08:55:07,214  INFO [main] - mil.dtic.selenium.RunTest.readExcel 207 - In test case execution flag - Y
+2022-01-15 08:55:07,214  INFO [main] - mil.dtic.selenium.RunTest.readExcel 230 - Adding to case list ...
+2022-01-15 08:55:07,214  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 1
+2022-01-15 08:55:07,286  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:07,287  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 1
+2022-01-15 08:55:07,288  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Open url
+2022-01-15 08:55:07,288  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:07,288  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> http://sampleapp.tricentis.com/101/app.php
+2022-01-15 08:55:07,290  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> url
+2022-01-15 08:55:07,290  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:07,293  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Url is opened sucessfully
+2022-01-15 08:55:07,998  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 2
+2022-01-15 08:55:08,002  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,002  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 2
+2022-01-15 08:55:08,004  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Click Sign in Button
+2022-01-15 08:55:08,005  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //div[@class='main-navigation']//a[@id='nav_truck']
+2022-01-15 08:55:08,005  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:08,006  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> click
+2022-01-15 08:55:08,006  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,007  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Click is performed sucessfully
+2022-01-15 08:55:08,028  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 3
+2022-01-15 08:55:08,031  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,032  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:08,033  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> screenshot
+2022-01-15 08:55:08,035  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:08,036  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:08,037  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> screenshot
+2022-01-15 08:55:08,038  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,039  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Screentshot taken sucessfully
+2022-01-15 08:55:08,067  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 4
+2022-01-15 08:55:08,071  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,071  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 3
+2022-01-15 08:55:08,072  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Dropdown select
+2022-01-15 08:55:08,073  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> #make
+2022-01-15 08:55:08,073  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Honda
+2022-01-15 08:55:08,074  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown
+2022-01-15 08:55:08,074  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,075  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown selection was done successfully
+2022-01-15 08:55:08,098  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 5
+2022-01-15 08:55:08,101  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,102  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 4
+2022-01-15 08:55:08,102  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Dropdown select
+2022-01-15 08:55:08,103  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='engineperformance']
+2022-01-15 08:55:08,104  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 2000
+2022-01-15 08:55:08,104  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,105  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,106  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,130  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 6
+2022-01-15 08:55:08,133  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,134  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 5
+2022-01-15 08:55:08,135  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter Date
+2022-01-15 08:55:08,136  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='dateofmanufacture']
+2022-01-15 08:55:08,137  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 10/13/2019
+2022-01-15 08:55:08,137  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,137  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,138  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,172  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 7
+2022-01-15 08:55:08,178  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,179  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 6
+2022-01-15 08:55:08,179  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Dropdown select
+2022-01-15 08:55:08,180  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //select[@id='numberofseats']
+2022-01-15 08:55:08,180  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 3
+2022-01-15 08:55:08,181  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown
+2022-01-15 08:55:08,182  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,182  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown selection was done successfully
+2022-01-15 08:55:08,219  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 8
+2022-01-15 08:55:08,223  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,224  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 7
+2022-01-15 08:55:08,225  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Dropdown select
+2022-01-15 08:55:08,226  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //select[@id='fuel']
+2022-01-15 08:55:08,227  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Gas
+2022-01-15 08:55:08,229  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown
+2022-01-15 08:55:08,229  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,230  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown selection was done successfully
+2022-01-15 08:55:08,287  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 9
+2022-01-15 08:55:08,291  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,291  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 8
+2022-01-15 08:55:08,294  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter Date
+2022-01-15 08:55:08,295  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='payload']
+2022-01-15 08:55:08,295  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 1000
+2022-01-15 08:55:08,298  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,298  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,299  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,350  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 10
+2022-01-15 08:55:08,364  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,367  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 9
+2022-01-15 08:55:08,376  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter Date
+2022-01-15 08:55:08,378  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='totalweight']
+2022-01-15 08:55:08,380  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 4000
+2022-01-15 08:55:08,383  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,385  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,387  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,468  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 11
+2022-01-15 08:55:08,476  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,479  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 10
+2022-01-15 08:55:08,479  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter Date
+2022-01-15 08:55:08,480  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='listprice']
+2022-01-15 08:55:08,481  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 25000
+2022-01-15 08:55:08,481  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,482  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,483  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,536  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 12
+2022-01-15 08:55:08,539  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,541  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 11
+2022-01-15 08:55:08,544  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter Date
+2022-01-15 08:55:08,548  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='licenseplatenumber']
+2022-01-15 08:55:08,548  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> a205160
+2022-01-15 08:55:08,549  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,550  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,552  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,597  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 13
+2022-01-15 08:55:08,600  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,601  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 12
+2022-01-15 08:55:08,603  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter Date
+2022-01-15 08:55:08,606  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='annualmileage']
+2022-01-15 08:55:08,607  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 15000
+2022-01-15 08:55:08,608  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,610  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,611  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,658  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 14
+2022-01-15 08:55:08,663  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,663  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 13
+2022-01-15 08:55:08,665  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Click Sign in Button
+2022-01-15 08:55:08,666  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //button[@id='nextenterinsurantdata']
+2022-01-15 08:55:08,666  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:08,667  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> click
+2022-01-15 08:55:08,669  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,672  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Click is performed sucessfully
+2022-01-15 08:55:08,728  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 15
+2022-01-15 08:55:08,731  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,731  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 14
+2022-01-15 08:55:08,732  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter First Name
+2022-01-15 08:55:08,732  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='firstname']
+2022-01-15 08:55:08,733  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Fatma
+2022-01-15 08:55:08,733  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,733  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,734  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,782  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 16
+2022-01-15 08:55:08,785  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,786  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 15
+2022-01-15 08:55:08,786  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter last name
+2022-01-15 08:55:08,786  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='lastname']
+2022-01-15 08:55:08,787  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Ali
+2022-01-15 08:55:08,787  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,789  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,789  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,825  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 17
+2022-01-15 08:55:08,828  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,829  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 16
+2022-01-15 08:55:08,829  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter Date
+2022-01-15 08:55:08,830  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='birthdate']
+2022-01-15 08:55:08,830  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 10/25/1973
+2022-01-15 08:55:08,830  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:08,831  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,831  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:08,888  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 18
+2022-01-15 08:55:08,890  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,890  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 17
+2022-01-15 08:55:08,890  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> radio
+2022-01-15 08:55:08,891  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //label[normalize-space()='Female']
+2022-01-15 08:55:08,892  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:08,892  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> radio
+2022-01-15 08:55:08,893  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:08,893  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> radio button selection was done successfully
+2022-01-15 08:55:08,935  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 19
+2022-01-15 08:55:08,937  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:08,939  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 18
+2022-01-15 08:55:08,939  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> street address 
+2022-01-15 08:55:09,032  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='streetaddress']
+2022-01-15 08:55:09,033  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 120 main st 
+2022-01-15 08:55:09,034  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:09,035  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,036  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:09,117  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 20
+2022-01-15 08:55:09,120  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,122  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 19
+2022-01-15 08:55:09,123  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:09,123  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //select[@id='country']
+2022-01-15 08:55:09,124  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Egypt
+2022-01-15 08:55:09,124  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown
+2022-01-15 08:55:09,126  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,127  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown selection was done successfully
+2022-01-15 08:55:09,180  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 21
+2022-01-15 08:55:09,183  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,183  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 20
+2022-01-15 08:55:09,184  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:09,184  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='zipcode']
+2022-01-15 08:55:09,185  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 10230
+2022-01-15 08:55:09,186  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:09,187  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,187  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:09,247  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 22
+2022-01-15 08:55:09,249  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,250  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 21
+2022-01-15 08:55:09,250  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> city
+2022-01-15 08:55:09,251  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='city']
+2022-01-15 08:55:09,252  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> cairo
+2022-01-15 08:55:09,252  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:09,253  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,254  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:09,318  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 23
+2022-01-15 08:55:09,321  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,322  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 22
+2022-01-15 08:55:09,322  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> occupation
+2022-01-15 08:55:09,322  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //select[@id='occupation']
+2022-01-15 08:55:09,323  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Public Official
+2022-01-15 08:55:09,323  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown
+2022-01-15 08:55:09,323  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,324  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown selection was done successfully
+2022-01-15 08:55:09,388  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 24
+2022-01-15 08:55:09,390  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,391  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 23
+2022-01-15 08:55:09,391  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> hobbies
+2022-01-15 08:55:09,394  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //label[normalize-space()='Skydiving']
+2022-01-15 08:55:09,394  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:09,395  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> click
+2022-01-15 08:55:09,395  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,396  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Click is performed sucessfully
+2022-01-15 08:55:09,464  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 25
+2022-01-15 08:55:09,466  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,467  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 24
+2022-01-15 08:55:09,467  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> next
+2022-01-15 08:55:09,471  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //button[@id='nextenterproductdata']
+2022-01-15 08:55:09,472  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:09,472  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> click
+2022-01-15 08:55:09,473  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,474  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Click is performed sucessfully
+2022-01-15 08:55:09,548  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 26
+2022-01-15 08:55:09,549  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,549  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 16
+2022-01-15 08:55:09,550  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Enter Date
+2022-01-15 08:55:09,551  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='startdate']
+2022-01-15 08:55:09,551  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 11/11/2022
+2022-01-15 08:55:09,551  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:09,552  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,552  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:09,599  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 27
+2022-01-15 08:55:09,600  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,600  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 22
+2022-01-15 08:55:09,600  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> insurances
+2022-01-15 08:55:09,601  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //select[@id='insurancesum']
+2022-01-15 08:55:09,602  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 3000000
+2022-01-15 08:55:09,603  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown
+2022-01-15 08:55:09,603  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,603  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown selection was done successfully
+2022-01-15 08:55:09,653  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 28
+2022-01-15 08:55:09,655  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,655  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 19
+2022-01-15 08:55:09,656  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> damageinsurance
+2022-01-15 08:55:09,657  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //select[@id='damageinsurance']
+2022-01-15 08:55:09,657  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Full Coverage
+2022-01-15 08:55:09,658  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown
+2022-01-15 08:55:09,659  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,660  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> dropdown selection was done successfully
+2022-01-15 08:55:09,725  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 29
+2022-01-15 08:55:09,731  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,736  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 17
+2022-01-15 08:55:09,736  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> radio
+2022-01-15 08:55:09,736  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='LegalDefenseInsurance']
+2022-01-15 08:55:09,736  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:09,737  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> radio
+2022-01-15 08:55:09,737  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,737  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> radio button selection was done successfully
+2022-01-15 08:55:09,807  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 30
+2022-01-15 08:55:09,811  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,812  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 23
+2022-01-15 08:55:09,812  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> next button
+2022-01-15 08:55:09,812  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //button[@id='nextselectpriceoption']
+2022-01-15 08:55:09,813  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:09,813  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> click
+2022-01-15 08:55:09,813  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,813  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Click is performed sucessfully
+2022-01-15 08:55:09,916  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 31
+2022-01-15 08:55:09,918  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:09,918  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 24
+2022-01-15 08:55:09,919  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> next
+2022-01-15 08:55:09,920  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='selectsilver']
+2022-01-15 08:55:09,920  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:09,921  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> radio
+2022-01-15 08:55:09,921  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:09,922  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> radio button selection was done successfully
+2022-01-15 08:55:09,999  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 32
+2022-01-15 08:55:10,001  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:10,002  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 23
+2022-01-15 08:55:10,003  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> next button
+2022-01-15 08:55:10,003  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //button[@id='nextsendquote']
+2022-01-15 08:55:10,003  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:10,005  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> click
+2022-01-15 08:55:10,005  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:10,006  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Click is performed sucessfully
+2022-01-15 08:55:10,076  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 33
+2022-01-15 08:55:10,078  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:10,078  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 16
+2022-01-15 08:55:10,080  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Email
+2022-01-15 08:55:10,080  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='email']
+2022-01-15 08:55:10,081  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> habiba@gmail.com
+2022-01-15 08:55:10,081  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:10,082  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:10,082  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:10,163  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 34
+2022-01-15 08:55:10,166  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:10,166  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 16
+2022-01-15 08:55:10,167  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> phone
+2022-01-15 08:55:10,167  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='phone']
+2022-01-15 08:55:10,167  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 8603281636
+2022-01-15 08:55:10,167  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:10,168  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:10,168  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:10,270  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 35
+2022-01-15 08:55:10,273  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:10,273  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 16
+2022-01-15 08:55:10,274  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> username
+2022-01-15 08:55:10,275  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='username']
+2022-01-15 08:55:10,278  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Habiba1200
+2022-01-15 08:55:10,279  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:10,280  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:10,280  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:10,403  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 36
+2022-01-15 08:55:10,405  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:10,405  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 16
+2022-01-15 08:55:10,406  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> password
+2022-01-15 08:55:10,406  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='password']
+2022-01-15 08:55:10,407  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> MmA123456
+2022-01-15 08:55:10,407  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:10,408  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:10,409  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:10,522  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 37
+2022-01-15 08:55:10,523  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:10,524  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 16
+2022-01-15 08:55:10,524  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Confirm password
+2022-01-15 08:55:10,525  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //input[@id='confirmpassword']
+2022-01-15 08:55:10,526  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> MmA123456
+2022-01-15 08:55:10,526  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> input
+2022-01-15 08:55:10,527  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:10,527  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Input is performed sucessfully
+2022-01-15 08:55:10,655  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 38
+2022-01-15 08:55:10,657  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:10,658  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 23
+2022-01-15 08:55:10,660  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> next button
+2022-01-15 08:55:10,663  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> //button[@id='sendemail']
+2022-01-15 08:55:10,664  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:10,665  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> click
+2022-01-15 08:55:10,666  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:10,666  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Click is performed sucessfully
+2022-01-15 08:55:10,778  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 39
+2022-01-15 08:55:10,779  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:10,780  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 25
+2022-01-15 08:55:10,780  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Sleep 
+2022-01-15 08:55:10,781  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:10,783  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 100
+2022-01-15 08:55:10,784  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> sleep
+2022-01-15 08:55:10,785  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:10,787  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> sleep is done sucessfully
+2022-01-15 08:55:10,921  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> TricentisTruck Test Case # -> TC9 Row Number is -> 40
+2022-01-15 08:55:10,925  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:10,925  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 26
+2022-01-15 08:55:10,927  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Close Browser
+2022-01-15 08:55:10,927  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:10,928  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 
+2022-01-15 08:55:10,929  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> CloseBrowser
+2022-01-15 08:55:10,930  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:10,931  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Browser is closed sucessfully
+2022-01-15 08:55:11,046  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> Test Cases Test Case # -> TC9 Row Number is -> 1
+2022-01-15 08:55:11,049  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TricentisTruck
+2022-01-15 08:55:11,050  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 1
+2022-01-15 08:55:11,051  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TC9
+2022-01-15 08:55:11,051  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Tricentis Truck Insurance
+2022-01-15 08:55:11,052  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> y
+2022-01-15 08:55:11,052  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:11,059  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> Test Suite Test Case # -> LoginTestcases Row Number is -> 1
+2022-01-15 08:55:11,067  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 1
+2022-01-15 08:55:11,068  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> LoginTestcases
+2022-01-15 08:55:11,072  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> N
+2022-01-15 08:55:11,074  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> SKIPPED
+2022-01-15 08:55:11,083  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> Test Suite Test Case # -> UserRegistrationTestCases Row Number is -> 2
+2022-01-15 08:55:11,085  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 2
+2022-01-15 08:55:11,086  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> UserRegistrationTestCases
+2022-01-15 08:55:11,088  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> N
+2022-01-15 08:55:11,088  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> SKIPPED
+2022-01-15 08:55:11,108  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> Test Suite Test Case # -> AnotherTestCase Row Number is -> 3
+2022-01-15 08:55:11,112  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 3
+2022-01-15 08:55:11,114  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> AnotherTestCase
+2022-01-15 08:55:11,117  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> N
+2022-01-15 08:55:11,118  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> SKIPPED
+2022-01-15 08:55:11,124  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> Test Suite Test Case # -> Tricentis Row Number is -> 4
+2022-01-15 08:55:11,127  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 4
+2022-01-15 08:55:11,128  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Tricentis
+2022-01-15 08:55:11,129  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> N
+2022-01-15 08:55:11,129  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> SKIPPED
+2022-01-15 08:55:11,139  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> Test Suite Test Case # -> Tricentis1 Row Number is -> 5
+2022-01-15 08:55:11,140  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 5
+2022-01-15 08:55:11,142  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Tricentis1
+2022-01-15 08:55:11,145  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> N
+2022-01-15 08:55:11,146  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> SKIPPED
+2022-01-15 08:55:11,167  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> Test Suite Test Case # -> Tricentis2 Row Number is -> 6
+2022-01-15 08:55:11,169  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 6
+2022-01-15 08:55:11,170  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Tricentis2
+2022-01-15 08:55:11,171  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> N
+2022-01-15 08:55:11,172  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> SKIPPED
+2022-01-15 08:55:11,181  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 295 - Sheet -> Test Suite Test Case # -> TricentisTruck Row Number is -> 7
+2022-01-15 08:55:11,183  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> 7
+2022-01-15 08:55:11,183  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> TricentisTruck
+2022-01-15 08:55:11,184  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> Y
+2022-01-15 08:55:11,184  INFO [main] - mil.dtic.selenium.RunTest.writeToExcelFile 315 - obj.toString() -> PASSED
+2022-01-15 08:55:11,539  INFO [main] - mil.dtic.selenium.RunTest.readExcel 273 - Closing workbook ...
